@@ -1,0 +1,17 @@
+{
+  "name": "webdriverio-test",
+  "description": "Generic Test for Webdriverio",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Steven West",
+  "homepage": "",
+  "contributors": [ "Steven West <steven.west@influencehealth.com>" ],
+  "bugs": { "url": "" },
+  "dependencies": {
+    "selenium-server-standalone" : "2.53.1"
+  },
+  "devDependencies": {
+  },
+  "keywords": [],
+  "repository": ""
+}
