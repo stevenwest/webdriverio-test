@@ -8,7 +8,8 @@
   "contributors": [ "Steven West <steven.west@influencehealth.com>" ],
   "bugs": { "url": "" },
   "dependencies": {
-    "selenium-server-standalone" : "2.53.1"
+    "selenium-server-standalone" : "2.53.1",
+    "webdriverio" : "4.8.0"
   },
   "devDependencies": {
   },
